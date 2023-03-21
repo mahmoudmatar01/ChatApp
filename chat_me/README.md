@@ -1,7 +1,7 @@
 # chat_me
 
 A new Flutter project.
-
+Chat App For Sending Data To Firebase_Store And Read Data From It
 ## Getting Started
 
 This project is a starting point for a Flutter application.
