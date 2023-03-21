@@ -1,0 +1,21 @@
+1*Create Pages Ui App
+2*Route Mangement
+3*Create Project in FireBase
+4*Connect Your Project With FireBase
+5*install Firebase packages
+     ** firebase core
+     ** firebase auth
+     ** firebase cloud
+6*Re Run App
+7*add those to app-buildgradle
+    defaultconfig =>  multiDexEnabled true
+    dependacies => implementation 'com.android.support:multidex:1.0.3'
+8*import firebase core in mainPage
+9*add those ti main method 
+     **  WidgetsFlutterBinding.ensureInitialized();
+     **await Firebase.initializeApp();
+10*add Login And Signout And Register Auth 
+11*Create DataBase fireStore in FireBase
+12*import cloud firestore package in your app
+13*Make SendData To Server Method
+14*Make ReadDataFrom Server Method
